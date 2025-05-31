@@ -3,6 +3,9 @@
  
 ![6084A211-25E1-4BAF-AB89-F07AE653AD1B](https://github.com/user-attachments/assets/a8d4a60d-850d-477a-860b-bd05bb0af91b)
 
+Game Video
+https://github.com/RanbirProjects/Snake-game-by-Ranbir/issues/1#issue-3105819358
+
 A modern implementation of the classic Snake game using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
  Features
